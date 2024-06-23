@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'package:transpo_track/features/authentication/screens/onboarding/onboarding.dart';
 import 'package:transpo_track/utils/theme/theme.dart';
 
-class App extends StatelessWidget{
+class App extends StatelessWidget {
   const App({super.key});
 
   @override

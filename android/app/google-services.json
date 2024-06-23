@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "710897134178",
+    "project_id": "transpo-firebase",
+    "storage_bucket": "transpo-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710897134178:android:a496f705bb229924937f3b",
+        "android_client_info": {
+          "package_name": "com.example.transpo_track"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5DmaGnCXhJW_0jE21gAK_Nf2BVO0Pr0U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
